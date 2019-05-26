@@ -7,8 +7,8 @@
      greet = "The line is currently:"
      katz_deli.each_with_index { |name, index|
        greet +=  " #{index + 1}. #{name}" }
+    puts "#{greet}"
    end
-   puts "#{greet}"
  end
 
  # def take_a_number(num)
