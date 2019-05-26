@@ -12,7 +12,7 @@
  end
 
  def take_a_number(katz_deli, num)
-
+   katz_deli.push(num)
  end
 
  # def now_serving
