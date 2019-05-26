@@ -17,6 +17,6 @@
 
  end
 
- # def now_serving
- #
- # end
+ def now_serving
+
+ end
