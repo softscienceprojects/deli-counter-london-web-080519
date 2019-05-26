@@ -11,10 +11,10 @@
    end
  end
 
- # def take_a_number(num)
- #
- # end
- #
+ def take_a_number(arr, num)
+
+ end
+
  # def now_serving
  #
  # end
