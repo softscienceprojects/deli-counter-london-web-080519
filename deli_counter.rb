@@ -4,7 +4,7 @@
    if katz_deli.empty? == true
      puts "The line is currently empty."
    else
-    # puts "The line is currently:"
+     greet = "The line is currently:"
      katz_deli.each_with_index { |name, index| puts  " #{index + 1}. #{name}" }
    end
  end
