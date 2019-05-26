@@ -6,7 +6,7 @@
    else
      # greet = "The line is currently: "
      katz_deli.each do |name|
-     puts "The line is currently: #{index}. #{name} "
+     puts "The line is currently: . #{name} "
 
    end
  end
