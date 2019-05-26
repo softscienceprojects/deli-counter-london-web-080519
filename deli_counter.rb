@@ -5,7 +5,7 @@
      puts "The line is currently empty."
    else
      # greet = "The line is currently: "
-     katz_deli.each do |name|
+     katz_deli.each_with_index do |name, index|
      puts "The line is currently: . #{name} "
 end
    end
