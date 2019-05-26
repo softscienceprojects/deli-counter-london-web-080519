@@ -11,7 +11,7 @@
    end
  end
 
- def take_a_number(arr, num)
+ def take_a_number(katz_deli, num)
 
  end
 
